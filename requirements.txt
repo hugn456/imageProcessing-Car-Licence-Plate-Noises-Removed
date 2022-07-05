@@ -2,4 +2,4 @@ matplotlib
 pathlib
 nump
 PIL
-opencv-python
+
